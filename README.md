@@ -1,6 +1,6 @@
 ### Hey guys 👋
 
-**My name is Ediberto B Oliveira from Brazil!**
+**I'm Ediberto Oliveira from Brazil!**
 
 I'm a Front End development student, my passion for programming is about creating amazing things and helping people, no matter how long it takes.
  I am a highly detail oriented person with a great sense of collaboration and teamwork, who loves to face challenges.
