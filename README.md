@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hey guys 👋
 
-<!--
-**edibertooliveira/edibertooliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Ediberto B Oliveira from Brazil!**
 
-Here are some ideas to get you started:
+I'm a Front End development student, my passion for programming is about creating amazing things and helping people, no matter how long it takes.
+ I am a highly detail oriented person with a great sense of collaboration and teamwork, who loves to face challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Buscando conhecimento o tempo todo
+
+My learning is based on creating projects and contributing to the open source community.
+
+## Metas para 2020
+
+* Produce more projects on github
+* Launch a real product with React, React Native
+* Improve my knowledge in JavaScript and successfully switch to TypeScript.
+
+## Technologies:
+
+* HTML
+* CSS && Styled Components
+* Javascript
+* React, React Native
+
+## MY VALUES
+
+My strengths are shaped by HTML, CSS and JavaScript, especially in the React.js libraries. I am in constant learning, participating in programming events to have contact with other developers.
+In my spare time, I like to learn new skills and develop personal projects.
+
+## ABOUT ME
+
+
+In my spare time I really like computer games, especially MMORPGs, and anime. I have a passion for the Star Wars franchise.
+
+### Would you like to find me?
+
+[Linkedin][linkedin] **|**
+[Email][email]
+
+[linkedin]: https://www.linkedin.com/in/ediberto-b-oliveira-872926178/
+[email]: edibertooliveira@aol.com
