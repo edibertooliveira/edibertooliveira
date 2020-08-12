@@ -1,36 +1,32 @@
-### Hey guys 👋
+<h1 align="center">Hey guys 👋, I'm Ediberto Oliveira!</h1>
+<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
-**I'm Ediberto Oliveira from Brazil!**
 
-I'm a Front End development student, my passion for programming is about creating amazing things and helping people, no matter how long it takes.
- I am a highly detail oriented person with a great sense of collaboration and teamwork, who loves to face challenges.
+I'm a student of Web development, my passion for programming is to create amazing things no matter how long it takes.
 
 ## Seeking knowledge all the time
 
 My learning is based on creating projects and contributing to the open source community.
 
-## Goals for 2020
-
-* Produce more projects on github
-* Launch a real product with React, React Native
-* Improve my knowledge in JavaScript and successfully switch to TypeScript.
-
 ## Technologies:
 
-* HTML
-* CSS && Styled Components
-* Javascript
-* React, React Native
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+</p>
 
 ## My value
 
-My strengths are shaped by HTML, CSS and JavaScript, especially in the React.js libraries. I am in constant learning, participating in programming events to have contact with other developers.
-In my spare time, I like to learn new skills and develop personal projects.
+I am a highly detail-oriented person with a great sense of collaboration and teamwork. I am in constant learning, participating in programming events to have contact with other developers.
 
 ## ABOUT ME
 
-
-In my spare time I really like computer games, especially MMORPGs, and anime. I have a passion for the Star Wars franchise.
+In my free time I like to walk, go to the beach mainly to feel the energy of nature. I have a passion for series and films, I love the Star Wars franchise. But I spend most of my time perfecting my knowledge on my computer screen.
 
 ### Would you like to find me?
 
