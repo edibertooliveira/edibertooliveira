@@ -1,9 +1,5 @@
 <h1 align="center">Hey guys 👋, I'm Ediberto Oliveira!</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
-
-
-I'm a student of Web development, my passion for programming is to create amazing things no matter how long it takes.
+<h3 align="center">I'm a student of Web development, my passion for programming is to create amazing things no matter how long it takes.</h3>
 
 ## Seeking knowledge all the time
 
