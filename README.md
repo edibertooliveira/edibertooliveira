@@ -1,4 +1,4 @@
-<h2 align="center">Hey guys 👋, I'm Ediberto Oliveira, from BRAZIL!</h2>
+<h3 align="center">Hey guys 👋, I'm Ediberto Oliveira, from BRAZIL!</h3>
 <h4 align="center">I'm a student of Web development, my passion for programming is to create amazing things no matter how long it takes.</h4>
 
 #### Seeking knowledge all the time
