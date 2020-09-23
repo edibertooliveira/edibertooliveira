@@ -17,7 +17,10 @@
 
 ##### ABOUT ME
 
-In my free time I like to walk, go to the beach mainly to feel the energy of nature. I have a passion for series and films, I love the Star Wars franchise. But I spend most of my time perfecting my knowledge on my computer screen.
+<p align="left">In my free time I like to walk, go to the beach mainly to feel the energy of nature.<br/>
+I have a passion for series and films, I love the Star Wars franchises,<br/>
+Lord of the Rings and even Harry Potter ... <br/>
+But I spend most of my time perfecting my knowledge on my computer screen.</p>
 
 ##### Would you like to find me?
 
