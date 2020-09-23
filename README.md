@@ -1,11 +1,12 @@
-<h3 align="center">Hey guys 👋, I'm Ediberto Oliveira, from BRAZIL!</h3>
-<h4 align="center">I'm a student of Web development, my passion for programming is to create amazing things no matter how long it takes.</h4>
+<h4 align="left">Hey guys 👋,
+  <br/>
+  <br/> 
+  <h5>I'm Ediberto Oliveira, from BRAZIL!</h5></h4>
+<p align="left">=>    I am a web development student,<br/>
+  passionate about programming and excited to keep learning more and more,<br/>
+  so I become a Full-Stack Developer, no matter how long it takes.</p>
 
-#### Seeking knowledge all the time
-
-My learning is based on creating projects and contributing to the open source community.
-
-#### Technologies:
+##### Technologies:
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
@@ -14,15 +15,11 @@ My learning is based on creating projects and contributing to the open source co
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
 
-#### My value
-
-I am a highly detail-oriented person with a great sense of collaboration and teamwork. I am in constant learning, participating in programming events to have contact with other developers.
-
-#### ABOUT ME
+##### ABOUT ME
 
 In my free time I like to walk, go to the beach mainly to feel the energy of nature. I have a passion for series and films, I love the Star Wars franchise. But I spend most of my time perfecting my knowledge on my computer screen.
 
-#### Would you like to find me?
+##### Would you like to find me?
 
 [Linkedin][linkedin] **|**
 [Email][email]
