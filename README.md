@@ -1,6 +1,5 @@
 <h4 align="left">Hey guys 👋,
   <br/>
-  <br/> 
   <h5>I'm Ediberto Oliveira, from BRAZIL!</h5></h4>
 <p align="left">=>    I am a web development student,<br/>
   passionate about programming and excited to keep learning more and more,<br/>
