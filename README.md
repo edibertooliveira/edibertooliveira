@@ -1,9 +1,10 @@
 <h4 align="left">Hey guys 👋,
   <br/>
   <h5>I'm Ediberto Oliveira, from BRAZIL!</h5></h4>
-<p align="left">=>    I am a web development student,<br/>
-  passionate about programming and excited to keep learning more and more,<br/>
-  so I become a Full-Stack Developer, no matter how long it takes.</p>
+<p align="left">
+ Web Software Development student at Trybe,
+passionate about programming and excited to learn more and more.
+I intend to become a Full-Stack Developer, no matter how long it takes.</p>
 
 ##### Technologies:
 
