@@ -4,7 +4,7 @@
 <p align="left">
  Web Software Development student at Trybe,<br/>
 passionate about programming and excited to learn more and more.<br/>
-I intend to become a Full-Stack Developer, no matter how long it takes.</p><br/>
+I intend to become a Full-Stack Developer, no matter how long it takes.</p>
 
 ##### Technologies:
 
