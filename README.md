@@ -15,13 +15,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
 
-##### ABOUT ME
-
-<p align="left">In my free time I like to walk, go to the beach mainly to feel the energy of nature.<br/>
-I have a passion for series and films, I love the Star Wars franchises,<br/>
-Lord of the Rings and even Harry Potter ... <br/>
-But I spend most of my time perfecting my knowledge on my computer screen.</p>
-
 ##### Would you like to find me?
 
 [Linkedin][linkedin] **|**
