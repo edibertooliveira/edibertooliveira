@@ -9,12 +9,12 @@ I intend to become a Full-Stack Developer, no matter how long it takes.</p>
 ##### Technologies:
 
 <p align="center" width="100%">
-    <img width="32%" height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edibertooliveira&layout=compact"> 
-    <img width="32%" height="110px" src="https://github-readme-stats.vercel.app/api?username=edibertooliveira&layout=compact"> 
+    <img width="48%" height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edibertooliveira&layout=compact"> 
+    <img width="48%" height="110px" src="https://github-readme-stats.vercel.app/api?username=edibertooliveira&layout=compact"> 
 </p>
 
 ---
 
-[![Linkedin](https://img.icons8.com/color/48/000000/gmail.png)](edibertooliveira@aol.com)
-[![gmail](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ediberto-b-oliveira-872926178/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:edibertooliveira@aol.com)
+[![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ediberto-b-oliveira-872926178/)
 
