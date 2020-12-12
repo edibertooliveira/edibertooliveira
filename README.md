@@ -13,7 +13,7 @@ I intend to become a Full-Stack Developer, no matter how long it takes.</p>
     <img width="48%" height="110px" src="https://github-readme-stats.vercel.app/api?username=edibertooliveira&layout=compact"> 
 </p>
 
-<p >
+<p align="center" width="100%">
   <span  class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
