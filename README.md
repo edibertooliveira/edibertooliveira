@@ -13,6 +13,21 @@ I intend to become a Full-Stack Developer, no matter how long it takes.</p>
     <img width="48%" height="110px" src="https://github-readme-stats.vercel.app/api?username=edibertooliveira&layout=compact"> 
 </p>
 
+<p >
+  <span  class="d-flex">
+    <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
+    <img title="CSS" alt="CSS" height=40
+      src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
+    <img title="JavaScript" alt="JavaScript" height=40
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
+<!--     <img title="React" alt="React" height=40
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> -->
+    <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+    <img title="Bulma" alt="Bulma" height=40 src="https://raw.githubusercontent.com/jgthms/bulma/master/docs/images/bulma-banner.png">
+    <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest.png">
+<!--     <img title="RTL" alt="React-testing-library" height=40 src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png"> -->
+  </span>
+</p>
 ---
 
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:edibertooliveira@aol.com)
