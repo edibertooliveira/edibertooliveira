@@ -33,5 +33,5 @@ I intend to become a Full-Stack Developer, no matter how long it takes.</p>
 ---
 
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:edibertooliveira@aol.com)
-[![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ediberto-b-oliveira-872926178/)
+[![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/edibertooliveira/)
 
