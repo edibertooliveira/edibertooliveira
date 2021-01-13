@@ -9,8 +9,8 @@ I intend to become a Full-Stack Developer, no matter how long it takes.</p>
 ##### Technologies:
 
 <p align="center" width="100%">
-    <img width="48%" height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edibertooliveira&layout=compact"> 
-    <img width="48%" height="110px" src="https://github-readme-stats.vercel.app/api?username=edibertooliveira&layout=compact"> 
+    <img width="48%" height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edibertooliveira&layout=compact&theme=dracula"> 
+    <img width="48%" height="110px" src="https://github-readme-stats.vercel.app/api?username=edibertooliveira&layout=compact&theme=dracula"> 
 </p>
 
 <p align="center" width="100%">
