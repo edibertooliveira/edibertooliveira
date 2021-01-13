@@ -17,7 +17,7 @@ I intend to become a Full-Stack Developer, no matter how long it takes.</p>
   <span  class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
-      src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
+      src="https://pngimage.net/wp-content/uploads/2018/05/css-png-4.png">
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
 <!--     <img title="React" alt="React" height=40
