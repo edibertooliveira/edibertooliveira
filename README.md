@@ -20,8 +20,8 @@ I intend to become a Full-Stack Developer, no matter how long it takes.</p>
       src="https://pngimage.net/wp-content/uploads/2018/05/css-png-4.png">
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
-<!--     <img title="React" alt="React" height=40
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> -->
+    <img title="React" alt="React" height=40
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
     <img title="Figma" alt="Figma" height=40 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img title="Bootstrap" alt="Bootstrap" height=40 src="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/assets/images/elements/bootstrap-stack.png">
