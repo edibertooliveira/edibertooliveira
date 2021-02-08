@@ -13,21 +13,22 @@ I intend to become a Full-Stack Developer, no matter how long it takes.</p>
     <img width="48%" height="110px" src="https://github-readme-stats.vercel.app/api?username=edibertooliveira&layout=compact&theme=dracula"> 
 </p>
 
+
 <p align="center" width="100%">
   <span  class="d-flex">
-    <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
-    <img title="CSS" alt="CSS" height=40
+    <img title="HTML" alt="HTML" height=32 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
+    <img title="CSS" alt="CSS" height=32
       src="https://pngimage.net/wp-content/uploads/2018/05/css-png-4.png">
-    <img title="JavaScript" alt="JavaScript" height=40
+    <img title="JavaScript" alt="JavaScript" height=32
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
-    <img title="React" alt="React" height=40
+    <img title="React" alt="React" height=32
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-    <img title="Figma" alt="Figma" height=40 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-    <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-    <img title="Bootstrap" alt="Bootstrap" height=40 src="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/assets/images/elements/bootstrap-stack.png">
-    <img title="SCSS" alt="SCSSt" height=40 src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg">
-    <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest.png">
-<!--     <img title="RTL" alt="React-testing-library" height=40 src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png"> -->
+    <img title="Figma" alt="Figma" height=32 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+    <img title="Git" alt="Git" height=32 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+    <img title="Bootstrap" alt="Bootstrap" height=32 src="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/assets/images/elements/bootstrap-stack.png">
+    <img title="SCSS" alt="SCSSt" height=32 src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg">
+    <img title="Jest" alt="Jest" height=32 src="https://jestjs.io/img/jest.png">
+<!--     <img title="RTL" alt="React-testing-library" height=32 src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png"> -->
   </span>
 </p>
 ---
