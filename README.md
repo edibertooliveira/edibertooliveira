@@ -6,7 +6,7 @@
 passionate about programming and excited to learn more and more.<br/>
 I intend to become a Full-Stack Developer, no matter how long it takes.</p>
 
-## hard skills 
+## Hard skills 
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
