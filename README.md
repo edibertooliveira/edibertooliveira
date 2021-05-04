@@ -29,13 +29,14 @@ These are some of the technologies and tools that I work with:
 ![RTL](https://img.shields.io/badge/-RTL-white?style=flat-square&logo=testing-library&logoColor=E34F26)
 ![Next.JS](https://img.shields.io/badge/-Nextjs-191929?style=flat-square&logo=next.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<!-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) -->
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 <!-- ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) -->
 <!-- ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) -->
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
+
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) -->
 <!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) -->
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) -->
