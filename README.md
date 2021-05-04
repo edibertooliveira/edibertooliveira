@@ -29,7 +29,7 @@ These are some of the technologies and tools that I work with:
 ![RTL](https://img.shields.io/badge/-RTL-white?style=flat-square&logo=testing-library&logoColor=E34F26)
 ![Next.JS](https://img.shields.io/badge/-Nextjs-191929?style=flat-square&logo=next.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
