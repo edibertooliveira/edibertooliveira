@@ -10,7 +10,4 @@ Sobre mim, sempre nas horas vagas gosto de passear, ir à praia principalmente p
 [![Twitter Follow](https://img.shields.io/twitter/follow/devEdiberto?style=social)](https://twitter.com/devediberto)
 [![Linkedin: ediberto](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edibertooliveira/)](https://www.linkedin.com/in/edibertooliveira/)
 
----
-
-[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:edibertooliveira@aol.com)
 
