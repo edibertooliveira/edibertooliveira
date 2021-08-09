@@ -1,10 +1,8 @@
 ### Fala comigo! 👋
 
-Sou Ediberto Oliveira, sou desenvolvedor de software e estou no mundo da programação desde 2019. Sou do Brasil e atualmente moro em Salvador Bahia.
-
-Sou Ediberto Oliveira, do BRASIL!
-Estudante de desenvolvimento de software da Web na Trybe,
-apaixonado por programação e animado para aprender mais e mais.
+Sou Ediberto Oliveira, atualmente moro no BRASIL em Salvador Bahia!
+Estudante de desenvolvimento de software da Web na Trybe e estou no mundo da programação desde 2019.
+Apaixonado por programação e animado para aprender mais e mais.
 Pretendo me tornar um Desenvolvedor Full-Stack, não importa quanto tempo leve.
 
 Sobre mim, sempre nas horas vagas gosto de passear, ir à praia principalmente para sentir a energia da natureza. Tenho paixão por séries e filmes.
