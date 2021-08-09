@@ -1,20 +1,20 @@
-### Hi there 👋
+### Fala comigo! 👋
 
-I am Ediberto Oliveira, I am a software developer and I have been in the programming world since 2019. I am from Brazil and currently live in Salvador Bahia.
+Sou Ediberto Oliveira, sou desenvolvedor de software e estou no mundo da programação desde 2019. Sou do Brasil e atualmente moro em Salvador Bahia.
 
-I'm Ediberto Oliveira, from BRAZIL!
-Web Software Development student at Trybe,
-passionate about programming and excited to learn more and more.
-I intend to become a Full-Stack Developer, no matter how long it takes.
+Sou Ediberto Oliveira, do BRASIL!
+Estudante de desenvolvimento de software da Web na Trybe,
+apaixonado por programação e animado para aprender mais e mais.
+Pretendo me tornar um Desenvolvedor Full-Stack, não importa quanto tempo leve.
 
-About me, always in my spare time I like to stroll, go to the beach mainly to feel the energy of nature. I have a passion for series and films. 
+Sobre mim, sempre nas horas vagas gosto de passear, ir à praia principalmente para sentir a energia da natureza. Tenho paixão por séries e filmes.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devEdiberto?style=social)](https://twitter.com/devediberto)
 [![Linkedin: ediberto](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edibertooliveira/)](https://www.linkedin.com/in/edibertooliveira/)
 
-## ⚡ Technologies
+## ⚡ Tecnologias
 
-These are some of the technologies and tools that I work with:
+Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
