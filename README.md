@@ -1,7 +1,7 @@
 ### Fala comigo! 👋
 
 Sou Ediberto Oliveira, atualmente moro no BRASIL em Salvador Bahia!
-Estudo desenvolvimento de software para Web na Trybe e estou no mundo da programação desde 2019.
+Desenvolvedor de Software Web e estou no mundo da programação desde 2019.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edibertooliveira&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
